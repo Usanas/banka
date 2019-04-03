@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Banka</title>
+<style>
+body{
+	background-color: OldLace;
+}
+ .diva {
+	background-color: LightGray;
+	width: 20%;
+	height:100%;
+	
+	text-align: center;
+	float: left;
+	}
+h1{
+	color: SaddleBrown;
+}
+h3{
+	color: SaddleBrown;
+}
+ hr {
+	color: ;
+	background-color: SaddleBrown;
+	width: 100%;
+	height: 10px;
+	border-radius: 5px;
+
+}
+ a{
+	text-decoration: none;
+}
+</style>
+</head>
+<body>
+<div>
+	<div>
+<h1>Nanase Bank</h1>
+<hr>
+</div>
+<div class = "diva">
+<a href = "C:\Users\IDL\Documents\Nanase Bank\UserInterface" target = "_self"><h3>Users Section</h3></a>
+</div>
+<div class ="diva">
+<a href = "C:\Users\IDL\Documents\Nanase Bank\Admin Interface" target = "_self"><h3>Admin Section</h3></a>
+</div>
+<div class ="diva">
+<a href = "C:\Users\IDL\Documents\Nanase Bank\Staff Interface" target = "_self"><h3>Staff section</h3></a>
+</div>
+<div class="diva">
+<a href = "C:\Users\IDL\Documents\Nanase Bank\AdminStaff Interface" target = "_self"><h3>Admin/Staff section</h3></a>
+</div>
+<div class="diva">
+<a href = "C:\Users\IDL\Documents\Nanase Bank\PasswordInterface" target = "_self"><h3>Reset Password</h3></a>
+</div>
+</div>
+</body>
+</html>
