@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Create An Account</title>
-</head>
-<body>
-<style>
+
 body{
 	background-color: OldLace;
 }
@@ -32,21 +26,4 @@ h3{
 }
  a{
 	text-decoration: none;
-}or: SaddleBrown;
-}
-</style>
-</head>
-<body>
-<div>
-	<div>
-<h1>Nanase Bank</h1>
-<hr>
-</div>
-	<div class = "diva">
-
-
-</div>
-
-</body>
-
-</html>
+ }
