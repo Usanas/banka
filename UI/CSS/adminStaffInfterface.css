@@ -4,7 +4,7 @@ body{
 }
  .diva {
 	background-color: LightGray;
-	width: 33.3%;
+	width: 20%;
 	height:100%;
 	
 	text-align: center;
@@ -20,16 +20,11 @@ h2{
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	text-decoration-line: underline;
 }
-
-.image{
-	font-size: 30px;
-	color: rgb(116, 81, 35);
-}
 h3{
 	color: SaddleBrown;
 }
  hr {
-	color: ;
+	
 	background-color: SaddleBrown;
 	width: 100%;
 	height: 10px;
@@ -38,4 +33,20 @@ h3{
 }
  a{
 	text-decoration: none;
+}
+.image{
+	font-size: 30px;
+	color: rgb(116, 81, 35);
+}
+label{
+	display:inline-block;
+	width: 28%;
+	font-size: 20px;
+	font-weight: bolder;
+	color: saddlebrown; 
+}
+.align {
+	font-size:22px;
+	color: rgb(116, 81, 35);
+
 }
