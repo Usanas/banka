@@ -5,7 +5,7 @@ body{
 }
  .diva {
 	background-color: LightGray;
-	width: 20%;
+	width: 33.3%;
 	height:100%;
 	
 	text-align: center;
@@ -38,6 +38,7 @@ h3{
 .image{
 	font-size: 30px;
 	color: rgb(116, 81, 35);
+	height: 100%;
 }
 .labels {
 	display: inline-block;
@@ -128,7 +129,7 @@ img {
 		}
 		.diva {
 			background-color: LightGray;
-			width: 20%;
+			width: 33.3%;
 			height:100%;
 			font-size:20px;
 			text-align: center;
